@@ -1,0 +1,19 @@
+{
+  "name": "filter-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/folpe/filter-object.git"
+  },
+  "author": "Florent PELLEGRIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/folpe/filter-object/issues"
+  },
+  "homepage": "https://github.com/folpe/filter-object#readme"
+}
